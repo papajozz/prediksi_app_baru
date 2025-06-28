@@ -1,3 +1,10 @@
+joblib==1.1.0
+pandas==1.3.3
+streamlit==1.12.0
+scikit-learn==0.24.2
+
+
+
 import streamlit as st
 import pandas as pd
 from joblib import load
